@@ -1,0 +1,18 @@
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga_vazifa.Form1.resources
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga vazifa.csproj.GenerateResource.cache
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga vazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga vazifa.AssemblyInfoInputs.cache
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga vazifa.AssemblyInfo.cs
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga vazifa.csproj.CoreCompileInputs.cache
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga vazifa.sourcelink.json
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\bin\Debug\net8.0-windows\Uyga vazifa.exe
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\bin\Debug\net8.0-windows\Uyga vazifa.deps.json
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\bin\Debug\net8.0-windows\Uyga vazifa.runtimeconfig.json
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\bin\Debug\net8.0-windows\Uyga vazifa.dll
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\bin\Debug\net8.0-windows\Uyga vazifa.pdb
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga vazifa.dll
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\refint\Uyga vazifa.dll
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga vazifa.pdb
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga vazifa.genruntimeconfig.cache
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\ref\Uyga vazifa.dll
+C:\Asosiy kurs. 06.02.2024\3-Modul\Uyga vazifa\Uyga vazifa\obj\Debug\net8.0-windows\Uyga_vazifa.Login.resources

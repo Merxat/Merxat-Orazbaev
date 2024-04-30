@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uyga vazifa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+245df08c4dc01f032fa08ad4826488f7ca1c80a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uyga vazifa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uyga vazifa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
